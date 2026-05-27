@@ -1,0 +1,6 @@
+[package]
+name = "decimal_light_total_engine"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
